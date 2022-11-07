@@ -1,0 +1,27 @@
+#back{
+    background: url(./asset/img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height:550px ;
+}
+
+
+#img{
+    height: 170px;
+}
+#btn{
+    background-color: yellow;
+    width: 100px;
+    font-size: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin: 10px;
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
